@@ -1,7 +1,8 @@
 # Prntscr-Image-Scraper
 Scrapes random images with a 6 character id length. 
 
-## PSA: You can get IP banned from prntscr.com for doing this. Do it on a vpn or via proxies. 
+## ⚠️ PSA: You can get ***IP banned*** from https://prntscr.com for doing this. Do it on a VPN or through proxies. 
+#### (not my fault if you get IP banned! I have warned you!)
 
 ### Steps
 1. Download the script 
