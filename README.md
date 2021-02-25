@@ -1,5 +1,5 @@
 # Prntscr-Image-Scraper
-Scrapes random images with a 6 character id length. 
+Scrapes random images with a 6 character id length from https://prntscr.com.
 
 ## ⚠️ PSA: You can get ***IP banned*** from https://prntscr.com for doing this. Do it on a VPN or through proxies. 
 #### (not my fault if you get IP banned! I have warned you!)
